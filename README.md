@@ -1,41 +1,23 @@
-Doom Cube 300³ Trident
-High-performance, precision-engineered CoreXY 3D printer build. Built for speed, strength, and modularity.
+# Doom Cube 300³ Trident
+## 🛠️ Mechanical Setup
 
- Core Specifications
-Build Volume: 300mm x 300mm x 300mm
+- **Gantry:**
+  - Double T 9mm belts
+  - Fabreeko-classified steppers (48V-powered)
+  - Sensorless homing 
 
-Motion System: Trident-style CoreXY
+- **Toolhead:**
+  - A4T design
+  - NH36 hotend
+  - Beacon with contact
 
- Mechanical Setup
-Gantry:
+---
 
-Double T 9mm belts
+## Electronics
 
-Fabreeko-classified steppers (48V-powered)
-
-Sensorless homing enabled
-
-Toolhead:
-
-A4T design
-
-NH36 hotend
-
-Beacon for automatic mesh calibration
-
-Electronics
-MCU: Leviathan
-
-Power Supplies:
-
-UHP-200-24 (24V rail)
-
-UHP-200-48 (48V rail)
-
-Features
-High-voltage stepper setup for torque and responsiveness
-Beacon mesh 
-
-Sensorless homing — no endstops required
+- **MCU:** Leviathan
+- **Power Supplies:**
+  - UHP-200-24 
+  - UHP-200-48 
 
 
