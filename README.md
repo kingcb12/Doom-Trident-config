@@ -22,3 +22,5 @@
 
 ## Firmware
 - Kalico for extra sensorless homing tuning
+- Shake tune for Input shaper graphs
+- KAMP for adaptive purging
