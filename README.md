@@ -20,4 +20,5 @@
   - UHP-200-24 
   - UHP-200-48 
 
-
+## Firmware
+-Kalico for extra sensorless homing tuning
